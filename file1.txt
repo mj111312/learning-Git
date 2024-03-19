@@ -1,0 +1,7 @@
+Welcome to the Git Tutorial! 
+add new lines 
+line 1
+line 2
+added few more lines 
+line 3 
+line 4
