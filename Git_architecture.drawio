@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-03-20T15:01:14.165Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="TiYTDZVw9vCVtmYpRMwN" version="24.0.4" type="device">
+<mxfile host="Electron" modified="2024-03-20T15:39:43.456Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="3D3VRW3xLEF8CRo8BhZG" version="24.0.4" type="device">
   <diagram name="Page-1" id="O8LxNOQjSFc5DGDgxKcW">
-    <mxGraphModel dx="1194" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
           <mxGeometry x="80" y="350" width="610" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cAkcnICUJ3VOB5hZcuwb-15" value="remote&lt;div&gt;Ex - Github repository&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cAkcnICUJ3VOB5hZcuwb-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="260" width="20" height="230" as="geometry" />
@@ -59,7 +59,10 @@
           <mxGeometry x="470" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cAkcnICUJ3VOB5hZcuwb-18" value="&lt;pre&gt;&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Helvetica&quot;&gt;push the changes(commits) to remote repository&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;flipH=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="640" y="363.13" width="210" height="23.75" as="geometry" />
+          <mxGeometry x="640" y="356.25" width="210" height="23.75" as="geometry" />
+        </mxCell>
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-20" value="&lt;pre&gt;&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Helvetica&quot;&gt;ex : git push &amp;lt;remote repository&amp;gt; &amp;lt;local branch&amp;gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Helvetica&quot;&gt;git push remote master&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;flipH=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="681.74" y="344.54" width="210" height="47.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
