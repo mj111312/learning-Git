@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-03-20T07:42:20.412Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="0E5bB5ZjmQ0CprGqLD8P" version="24.0.4" type="device">
+<mxfile host="Electron" modified="2024-03-20T07:58:52.576Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="CA0uXRsHrqXyQNfpz1YU" version="24.0.4" type="device">
   <diagram name="Page-1" id="O8LxNOQjSFc5DGDgxKcW">
     <mxGraphModel dx="1194" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="cAkcnICUJ3VOB5hZcuwb-13" value="revert back changes, and match the state to the last committed state in the working dir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="134" y="301" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-14" value="use git checkout -- &amp;lt;filename/filepath&amp;gt; to revert the status back to its last committed state" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="390" width="610" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
