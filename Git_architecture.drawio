@@ -1,70 +1,70 @@
-<mxfile host="Electron" modified="2024-03-23T08:00:23.324Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="iRVD0KeTj5Gygzo1jGaW" version="24.0.4" type="device">
+<mxfile host="Electron" modified="2024-03-25T04:49:50.971Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="xhbNWlGmVl40F_3KA9xr" version="24.0.4" type="device">
   <diagram name="Page-1" id="O8LxNOQjSFc5DGDgxKcW">
-    <mxGraphModel dx="955" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-1" value="working directory&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-1" value="working directory&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-2" value="staging area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-2" value="staging area" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-3" value=".git reposatory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-3" value=".git reposatory" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cAkcnICUJ3VOB5hZcuwb-1" target="cAkcnICUJ3VOB5hZcuwb-2">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cAkcnICUJ3VOB5hZcuwb-1" target="cAkcnICUJ3VOB5hZcuwb-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="255" as="sourcePoint" />
             <mxPoint x="270" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="229.5" as="sourcePoint" />
             <mxPoint x="630" y="229.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Git : 3 Stage Architecture&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Git : 3 Stage Architecture&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="20" y="10" width="860" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-8" value="git add &amp;lt;filename&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-8" value="git add &amp;lt;filename&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-9" value="git restore &amp;lt;filename&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-9" value="git restore &amp;lt;filename&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="240" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="280" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="160" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-12" value="changes have been made, files are ready to be committed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-12" value="changes have been made, files are ready to be committed" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="94" y="130" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-13" value="revert back changes, and match the state to the last committed state in the working dir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-13" value="revert back changes, and match the state to the last committed state in the working dir" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="134" y="301" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-14" value="use git checkout -- &amp;lt;filename/filepath&amp;gt; to revert the status back to its last committed state" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-14" value="use git checkout -- &amp;lt;filename/filepath&amp;gt; to revert the status back to its last committed state" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="350" width="610" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-15" value="remote&lt;div&gt;Ex - Github repository&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-15" value="remote&lt;div&gt;Ex - Github repository&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="656" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="260" width="20" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-17" value="changes committed locally&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-17" value="changes committed locally&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-18" value="&lt;pre&gt;&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Helvetica&quot;&gt;push the changes(commits) to remote repository&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;flipH=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-18" value="&lt;pre&gt;&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Helvetica&quot;&gt;push the changes(commits) to remote repository&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;flipH=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="640" y="356.25" width="210" height="23.75" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-20" value="&lt;pre&gt;&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Helvetica&quot;&gt;ex : git push &amp;lt;remote repository&amp;gt; &amp;lt;local branch&amp;gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Helvetica&quot;&gt;git push remote master&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;flipH=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-20" value="&lt;pre&gt;&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Helvetica&quot;&gt;ex : git push &amp;lt;remote repository&amp;gt; &amp;lt;local branch&amp;gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Helvetica&quot;&gt;git push remote master&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;flipH=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="681.74" y="344.54" width="210" height="47.2" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="630" as="sourcePoint" />
             <mxPoint x="860" y="630" as="targetPoint" />
@@ -73,25 +73,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-24" value="Branching Workflow&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-24" value="Branching Workflow&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="220" y="650" width="520" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=south;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=south;" parent="1" vertex="1">
           <mxGeometry x="250" y="680" width="20" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=south;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=south;" parent="1" vertex="1">
           <mxGeometry x="670" y="680" width="20" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-29" value="Long Running Branches&lt;div&gt;&lt;ul&gt;&lt;li&gt;Master&amp;nbsp;&lt;/li&gt;&lt;li&gt;Development&lt;/li&gt;&lt;li&gt;Proposed_Updates&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-29" value="Long Running Branches&lt;div&gt;&lt;ul&gt;&lt;li&gt;Master&amp;nbsp;&lt;/li&gt;&lt;li&gt;Development&lt;/li&gt;&lt;li&gt;Proposed_Updates&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="200" y="770" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-30" value="Topic Branches&lt;div&gt;&lt;ul&gt;&lt;li&gt;Issue1&lt;/li&gt;&lt;li&gt;Bug_Fix1&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-30" value="Topic Branches&lt;div&gt;&lt;ul&gt;&lt;li&gt;Issue1&lt;/li&gt;&lt;li&gt;Bug_Fix1&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="620" y="770" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-31" value="&lt;ul&gt;&lt;li&gt;temporary in nature&lt;/li&gt;&lt;li&gt;once implemented, commit the changes, merge to master branch and remove the branch all together&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-31" value="&lt;ul&gt;&lt;li&gt;temporary in nature&lt;/li&gt;&lt;li&gt;once implemented, commit the changes, merge to master branch and remove the branch all together&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="620" y="860" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.994;entryY=0.369;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.012;exitY=0.18;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cAkcnICUJ3VOB5hZcuwb-31" target="cAkcnICUJ3VOB5hZcuwb-29">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.994;entryY=0.369;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.012;exitY=0.18;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="cAkcnICUJ3VOB5hZcuwb-31" target="cAkcnICUJ3VOB5hZcuwb-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="760" as="sourcePoint" />
             <mxPoint x="490" y="710" as="targetPoint" />
@@ -102,7 +102,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cAkcnICUJ3VOB5hZcuwb-33" value="&lt;ul&gt;&lt;li&gt;active in long run&amp;nbsp;&lt;/li&gt;&lt;li&gt;changes after testing in topic branch gets merged into long running branches&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="cAkcnICUJ3VOB5hZcuwb-33" value="&lt;ul&gt;&lt;li&gt;active in long run&amp;nbsp;&lt;/li&gt;&lt;li&gt;changes after testing in topic branch gets merged into long running branches&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="200" y="870" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
